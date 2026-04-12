@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Local files
+_site/
+.DS_Store
