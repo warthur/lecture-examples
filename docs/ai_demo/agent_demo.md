@@ -8,16 +8,6 @@ Use Codex to:
 
 ---
 
-## If You Just Completed Setup
-
-If you just completed the setup guide, Codex should already be running from your Downloads folder.
-
-Go directly to [Step 4 — Use the Demo Folder](#-step-4--use-the-demo-folder).
-
-If Codex is not already running, start at [Step 2 — Open Terminal](#-step-2--open-terminal).
-
----
-
 ## 📁 Step 1 — Download and Unzip
 
 Download the demo files here: [demo-files.zip](demo-files.zip)
@@ -25,6 +15,16 @@ Download the demo files here: [demo-files.zip](demo-files.zip)
 1. Download `demo-files.zip`
 2. Unzip it into your **Downloads** folder
 3. The unzipped folder should be named `demo-files`
+
+---
+
+## If You Just Completed Setup
+
+If you just completed the setup guide, Codex should already be running from your Downloads folder.
+
+Go directly to [Step 4 — Use the Demo Folder](#-step-4--use-the-demo-folder).
+
+If Codex is not already running, continue to Step 2.
 
 ---
 
