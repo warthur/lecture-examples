@@ -43,3 +43,4 @@
 # Local files
 _site/
 .DS_Store
+vendor/bundle/
