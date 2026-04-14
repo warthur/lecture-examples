@@ -140,6 +140,14 @@ In Terminal, run:
 npm install -g @openai/codex
 ```
 
+If you get a permissions error, run:
+
+```
+sudo npm install -g @openai/codex
+```
+
+Type your computer password if prompted. The password may not appear while you type.
+
 Wait for installation to complete
 
 ---
@@ -233,7 +241,7 @@ Continue to the demo instructions.
 ---
 
 ### Install errors
-→ If `npm install -g @openai/codex` fails, ask your instructor for help before continuing
+→ If `npm install -g @openai/codex` has a permissions error, try `sudo npm install -g @openai/codex`
 
 ---
 
